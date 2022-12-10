@@ -17,3 +17,6 @@
 - [Conditional Expressions](https://pythonwithliz.com/chapters/conditional-expressions/ "Conditional Expressions")
 - [The conditional if](https://pythonwithliz.com/chapters/the-conditional-if/ "The conditional if")
 - [Loops in Python](https://pythonwithliz.com/chapters/loops-in-python/ "Loops in Python")
+- [Functions](https://pythonwithliz.com/chapters/return-the-result-from-the-function/ "Functions")
+- [Function parameters](https://pythonwithliz.com/chapters/function-parameters/ "Function parameters")
+- [Return the result from the function](https://pythonwithliz.com/chapters/return-the-result-from-the-function/ "Return the result from the function")
